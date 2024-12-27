@@ -28,8 +28,7 @@
     "link": "v2box://install-sub?url={url}&name=SUBnew",
     "os": ["iOS"],
     "downloadLinks": {
-      "iOS": "https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690",
-      "Android": "https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box&hl=en_GB"
+      "iOS": "https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690"
     },
     "ShowInMenu": true
   },
@@ -50,7 +49,7 @@
     "downloadLinks": {
       "iOS": "https://apps.apple.com/us/app/shadowrocket/id932747118"
     },
-    "ShowInMenu": true
+    "ShowInMenu": false
   },
   {
     "name": "Nekoray",
